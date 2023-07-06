@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[use GridYES]]>
+    </line>
+    <line>
+      <![CDATA[Grid URLhttps://oauth-sundesh56-aa7e8:ac2f07dc-5f1a-46e0-9b2c-e7dc92d07aff@ondemand.eu-central-1.saucelabs.com:443/wd/hub]]>
+    </line>
+    <line>
+      <![CDATA[Facebook - log in or sign up]]>
+    </line>
+    <line>
+      <![CDATA[Sandesh]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-06T15:42:35 IST" name="Suite" finished-at="2023-07-06T15:42:44 IST" duration-ms="8515">
+    <groups>
+    </groups>
+    <test started-at="2023-07-06T15:42:35 IST" name="Test" finished-at="2023-07-06T15:42:44 IST" duration-ms="8515">
+      <class name="script.Test1">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:script.Test1@4738a206]" started-at="2023-07-06T15:42:35 IST" name="openApp" finished-at="2023-07-06T15:42:43 IST" duration-ms="7573" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[use GridYES]]>
+            </line>
+            <line>
+              <![CDATA[Grid URLhttps://oauth-sundesh56-aa7e8:ac2f07dc-5f1a-46e0-9b2c-e7dc92d07aff@ondemand.eu-central-1.saucelabs.com:443/wd/hub]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="test1()[pri:0, instance:script.Test1@4738a206]" started-at="2023-07-06T15:42:43 IST" name="test1" finished-at="2023-07-06T15:42:44 IST" duration-ms="620" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Facebook - log in or sign up]]>
+            </line>
+            <line>
+              <![CDATA[Sandesh]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:script.Test1@4738a206]" started-at="2023-07-06T15:42:44 IST" name="close" finished-at="2023-07-06T15:42:44 IST" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- script.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
